@@ -1,6 +1,6 @@
 function Default() {
     return (
-        <h1>Default</h1>
+        <h1 className="text-4xl">Default</h1>
     );
 }
 
